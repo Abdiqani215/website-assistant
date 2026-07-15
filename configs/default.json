@@ -6,8 +6,7 @@
     "groq"
   ],
   "plugins": [
-    "analytics",
-    "gmail"
+    "analytics"
   ],
   "deployment": [
     "Docker",
