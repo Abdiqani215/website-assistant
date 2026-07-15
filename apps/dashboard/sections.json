@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Overview",
+    "enabled": true
+  },
+  {
+    "name": "Conversations",
+    "enabled": true
+  },
+  {
+    "name": "Tasks",
+    "enabled": true
+  },
+  {
+    "name": "Workflows",
+    "enabled": false
+  },
+  {
+    "name": "Knowledge Base",
+    "enabled": true
+  },
+  {
+    "name": "Plugins",
+    "enabled": true
+  },
+  {
+    "name": "Email",
+    "enabled": true
+  },
+  {
+    "name": "Calendar",
+    "enabled": true
+  },
+  {
+    "name": "Integrations",
+    "enabled": true
+  },
+  {
+    "name": "Users",
+    "enabled": false
+  },
+  {
+    "name": "Permissions",
+    "enabled": true
+  },
+  {
+    "name": "Logs",
+    "enabled": false
+  },
+  {
+    "name": "Analytics",
+    "enabled": true
+  },
+  {
+    "name": "Memory",
+    "enabled": false
+  },
+  {
+    "name": "AI Models",
+    "enabled": true
+  },
+  {
+    "name": "Costs",
+    "enabled": true
+  },
+  {
+    "name": "Deployments",
+    "enabled": true
+  },
+  {
+    "name": "API Keys",
+    "enabled": false
+  },
+  {
+    "name": "Webhooks",
+    "enabled": true
+  },
+  {
+    "name": "Files",
+    "enabled": false
+  },
+  {
+    "name": "Settings",
+    "enabled": true
+  },
+  {
+    "name": "System Health",
+    "enabled": true
+  }
+]
