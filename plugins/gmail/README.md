@@ -1,3 +1,0 @@
-# gmail
-
-Lead capture email
