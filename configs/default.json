@@ -1,0 +1,18 @@
+{
+  "agentName": "Website Assistant",
+  "agentType": "Website Assistant",
+  "industry": "Web",
+  "models": [
+    "groq"
+  ],
+  "plugins": [
+    "analytics",
+    "gmail"
+  ],
+  "deployment": [
+    "Docker",
+    "Cloudflare Workers",
+    "VPS",
+    "Railway"
+  ]
+}
