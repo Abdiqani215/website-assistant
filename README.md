@@ -1,9 +1,12 @@
 # Website Assistant
 
-## Deployment
-The project can be deployed using the following command: 
+A site-embedded assistant answering from the site's own content and routing to pages or contact.
+
+## Build and Deployment
+To build and deploy the application, run the following commands:
+
 ```bash
-docker build -t website-assistant .
-docker run -p 80:80 website-assistant
+npm run build
+npx wrangler deploy
 ```
-Make sure to verify the root directory and ensure it contains the necessary static files.
+Note: The build command should be updated to generate static files.
